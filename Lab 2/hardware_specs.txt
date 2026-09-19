@@ -1,0 +1,6 @@
+Computer Type: Lenovo X1 Carbon ThinkPad
+CPU: Intel Core i5-8365U 
+Memory: 16GB
+OS: Windows 11 Pro 25H2
+HD: 477GB
+Display Resolution: 1920X1080 
