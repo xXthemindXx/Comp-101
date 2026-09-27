@@ -8,5 +8,7 @@ README.md
 LAB2/
 hardware_specs.txt
 - 
+LAB3/lab3.html
+-
 Project Status: Active 
 - 
