@@ -10,5 +10,7 @@ hardware_specs.txt
 - 
 LAB3/lab3.html
 -
+Lab4/lab4.html
+-
 Project Status: Active 
 - 
